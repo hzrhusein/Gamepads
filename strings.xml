@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PS Gamepad</string>
+    <string name="starting">Memulai...</string>
+    <string name="discoverable">Bisa ditemukan</string>
+    <string name="pick_pc">Pilih PC</string>
+    <string name="disconnect">Putus</string>
+    <string name="haptic">Getar</string>
+    <string name="need_permission">Izin Bluetooth diperlukan</string>
+    <string name="no_paired">Belum ada perangkat terpasang. Pasangkan dari PC dulu (tekan Bisa ditemukan).</string>
+</resources>

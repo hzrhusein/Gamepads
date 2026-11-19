@@ -1,0 +1,36 @@
+<resources>
+    <style name="Theme.App" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+
+    <style name="PadRound">
+        <item name="android:layout_width">56dp</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">@drawable/btn_round</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#E6EAF5</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="PadShoulder">
+        <item name="android:layout_width">84dp</item>
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/btn_rect</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#E6EAF5</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PadSmall">
+        <item name="android:layout_width">68dp</item>
+        <item name="android:layout_height">34dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/btn_rect</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#C9D1E3</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
